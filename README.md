@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Whoman
+- 👀 I’m interested in Learning lua
+- 🌱 I’m currently learning lua and javascript
+- 💞️ I’m looking to collaborate on literally nothing
+- 📫 How to reach me https://discord.com/users/888436095929434152
